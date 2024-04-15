@@ -23,3 +23,12 @@ class FoodTruck
         # require 'pry'; binding.pry
     end
 end
+
+# NOTE TO WHOEVER REVIEWS THIS!
+# I know I did not get far at all into this IC but it definitely
+# showed me how hard I need to work in the next week and a half
+# to really nail this all down. I have a student support slot
+# booked and I will continue to work through all the ruby 
+# exercises and I am confident that I WILL get past the final IC!!
+# This epic failure has motivated me to excell and that is 
+# what I plan on doing!!
